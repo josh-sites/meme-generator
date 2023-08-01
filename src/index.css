@@ -1,0 +1,8 @@
+body, html {
+    margin: 0px;
+    font-family: "Karla", sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
